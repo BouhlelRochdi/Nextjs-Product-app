@@ -1,5 +1,4 @@
 "use client";
-
 import { ProductCard } from "@/components/ProductCard";
 import { RatingFilter } from "@/components/Ratingfilter";
 import { useProducts } from "@/context/ProductContext";

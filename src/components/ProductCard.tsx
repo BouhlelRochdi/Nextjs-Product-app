@@ -1,7 +1,6 @@
 "use client";
-
 import { Product } from '@/types/product';
-import { Box, VStack, Badge, useColorModeValue } from '@chakra-ui/react';
+import { Box, VStack, useColorModeValue } from '@chakra-ui/react';
 import GenericImage from './GenericImage';
 import ProductTitle from './ProductTitle';
 import ProductRating from './ProductRating';
